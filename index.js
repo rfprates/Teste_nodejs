@@ -7,7 +7,7 @@ let numero = 3
 console.log(numero)
 
 /*
-criando uma variável constante denominada "prompt" que vai chamar a função require,
+criando uma constante denominada "prompt" que vai chamar a função require,
 com o argumento "prompt-sync". Isto será usado para solicitar inputs do usuário
 */
 const prompt = require("prompt-sync")();
